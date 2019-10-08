@@ -1,5 +1,5 @@
-![Tested OS: Linux](https://img.shields.io/badge/Tested%20OS-Linux-green.svg "Tested OS: Linux")
-![Untested OS: Windows, Mac OS](https://img.shields.io/badge/Untested%20OS-Windows,Mac%20OS-important.svg "Untested OS: Windows, Mac OS")
+![Tested OS: Linux, Mac Os](https://img.shields.io/badge/Tested%20OS-Linux,Mac%20OS-green.svg "Tested OS: Linux, Mac OS")
+![Untested OS: Windows](https://img.shields.io/badge/Untested%20OS-Windows-important.svg "Untested OS: Windows")
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Documentation Status](https://readthedocs.org/projects/hac-game-lib/badge/?version=latest)](http://hac-game-lib.readthedocs.io/?badge=latest)
